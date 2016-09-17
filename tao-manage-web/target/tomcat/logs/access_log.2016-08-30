@@ -1,0 +1,4 @@
+127.0.0.1 - - [30/Aug/2016:00:17:41 +0800] "GET /rest/item/605616 HTTP/1.0" 200 300 http-bio-8081-exec-5 142
+127.0.0.1 - - [30/Aug/2016:00:55:51 +0800] "GET /rest/item/cat/all?callback=category.getDataService HTTP/1.0" 200 30450 http-bio-8081-exec-6 32
+127.0.0.1 - - [30/Aug/2016:01:27:14 +0800] "GET /rest/item/cat/all?callback=category.getDataService HTTP/1.0" 200 30450 http-bio-8081-exec-1 483
+127.0.0.1 - - [30/Aug/2016:01:27:39 +0800] "GET /rest/item/605616 HTTP/1.0" 200 300 http-bio-8081-exec-2 140
